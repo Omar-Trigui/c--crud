@@ -1,0 +1,16 @@
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\bin\Debug\Controller.dll
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\bin\Debug\MyModel.dll
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\bin\Debug\Controller.pdb
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\bin\Debug\MyModel.pdb
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\bin\Debug\MyModel.dll.config
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\Omar trigui\Source\Repos\MyProject\MyProject\obj\Debug\MyProject.pdb
