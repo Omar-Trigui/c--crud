@@ -1,0 +1,7 @@
+C:\Users\Omar trigui\Source\Repos\MyProject\MyModel\bin\Debug\MyModel.dll.config
+C:\Users\Omar trigui\Source\Repos\MyProject\MyModel\bin\Debug\MyModel.dll
+C:\Users\Omar trigui\Source\Repos\MyProject\MyModel\bin\Debug\MyModel.pdb
+C:\Users\Omar trigui\Source\Repos\MyProject\MyModel\obj\Debug\MyModel.csprojAssemblyReference.cache
+C:\Users\Omar trigui\Source\Repos\MyProject\MyModel\obj\Debug\MyModel.csproj.CoreCompileInputs.cache
+C:\Users\Omar trigui\Source\Repos\MyProject\MyModel\obj\Debug\MyModel.dll
+C:\Users\Omar trigui\Source\Repos\MyProject\MyModel\obj\Debug\MyModel.pdb
